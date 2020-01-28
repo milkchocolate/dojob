@@ -1,0 +1,2 @@
+- docker build . -t aaronyunan/dojob
+- docker push aaronyunan/dojob
